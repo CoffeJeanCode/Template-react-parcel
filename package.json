@@ -1,7 +1,7 @@
 {
   "name": "parcel-app-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple an powerful template of react with parcel",
   "main": "index.js",
   "dependencies": {
     "react-dom": "^16.13.1",
@@ -11,9 +11,18 @@
     "parcel-bundler": "^1.12.4"
   },
   "scripts": {
-    "start": "parcel src/index.html --open"
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.js -d build/dist.js"
   },
-  "keywords": [],
+  "keywords": [
+  "template",
+    "react",
+    "zero-config",
+    "parcel"
+    "bulder",
+    "bundle"
+    "template"
+  ],
   "author": "",
   "license": "ISC"
 }
