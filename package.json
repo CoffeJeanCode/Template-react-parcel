@@ -15,12 +15,12 @@
     "build": "parcel build src/index.js -d build/dist.js"
   },
   "keywords": [
-  "template",
+    "template",
     "react",
     "zero-config",
-    "parcel"
+    "parcel",
     "bulder",
-    "bundle"
+    "bundle",
     "template"
   ],
   "author": "",
