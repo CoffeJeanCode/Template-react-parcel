@@ -6,7 +6,7 @@ const Greet = ({name}) => (
 			Hello <span>{name}!</span>
 		</h1>
 		<span>
-			Edit The <strong>src</strong> Folder			
+  Edit The <strong>src/App.js</strong> File			
 		</span>
 	</>
 )

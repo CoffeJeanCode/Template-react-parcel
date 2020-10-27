@@ -1,3 +1,4 @@
-<h1 align="center">REACT WITH PARCEL</h1>
+# REACT WITH PARCEL
+##### Simple React Template
 
 ### Zero Config!!

@@ -1,8 +1,16 @@
+# dependencies
 node_modules
 
-/dist
+# cache
+.cache
+.cache/.json
 
+# production
+dist
+
+# logs
 yarn-error.log
-
+ 
+# locks
 package-lock.json
 yarn.lock
