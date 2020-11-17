@@ -1,4 +1,9 @@
 # REACT WITH PARCEL
 ##### Simple React Template
 
-### Zero Config!!
+## Get Started
+
+```shell
+npm install -g degit
+degit github:CoffeJeanCode/Template-react-parcel
+```
